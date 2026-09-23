@@ -1,5 +1,4 @@
 ### I'm Aftab Shekh, a passionate Full-Stack Developer 👨‍💻 building modern web applications.
-**  
   
 
 - 🔭 I'm currently building Full-Stack web applications with MERN Stack.  
